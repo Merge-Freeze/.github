@@ -5,6 +5,10 @@ Merge Freeze lets dev teams block or prevent the merging of pull requests, eithe
 
 **Note: Merge Freeze does not gain any access to your code.**
 
+Install or learn more at:
+* https://github.com/marketplace/merge-freeze
+* https://mergefreeze.com
+
 ## Features
 * **One-off freezes** - Anyone on your team can temporarily block merging into a branch of your choosing by clicking "Freeze"
 * **Recurring freezes** - Create cron schedules in our UI so contributors can only merge during certain hours
