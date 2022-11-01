@@ -22,3 +22,7 @@ Install or learn more at:
 Our Slack plugin provides a `/mergefreeze` command that, when invoked, will show you the current status of your repository and a big shiny button to either freeze or unfreeze it.
 
 It will also send your team a notification when someone implements a merge freeze,  which is a handy reminder that everyone should stop merging. You can configure which Slack channel these "stop pull request" notifications should go to.
+
+## Mac menu bar (optional)
+
+Our Mac menu plugin provides instant access to the status of all your project's repositories, sorted by frozen status and alphabetically. [Learn more](https://github.com/Merge-Freeze/mac-menu-plugin).
