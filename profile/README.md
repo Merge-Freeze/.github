@@ -26,3 +26,5 @@ It will also send your team a notification when someone implements a merge freez
 ## Mac menu bar (optional)
 
 Our Mac menu plugin provides instant access to the status of all your project's repositories, sorted by frozen status and alphabetically. [Learn more](https://github.com/Merge-Freeze/mac-menu-plugin).
+
+Another change
