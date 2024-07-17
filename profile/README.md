@@ -1,6 +1,6 @@
 The code freeze tool to stop merging and deployments
 -------------------------------------------------------
-
+test
 Merge Freeze lets dev teams block or prevent the merging of pull requests, either during one-off situations or scheduled at certain times of the week.
 
 **Note: Merge Freeze does not gain any access to your code.**
